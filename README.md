@@ -8,6 +8,9 @@
 <p><img align="Center" width="1000" height="1000" src="https://github.com/PrathameshDeshpande/YoloV4_Food_Detection/blob/master/predictions (4).jpg"></p>
 <p><img align="Center" width="1000" height="1000" src="https://github.com/PrathameshDeshpande/YoloV4_Food_Detection/blob/master/predictions (5).jpg"></p>
 <p><img align="Center" width="1000" height="1000" src="https://github.com/PrathameshDeshpande/YoloV4_Food_Detection/blob/master/predictions (6).jpg"></p>
+<p><img align="Center" width="1000" height="1000" src="https://github.com/PrathameshDeshpande/YoloV4_Food_Detection/blob/master/predictions (8).jpg"></p>
+<p><img align="Center" width="1000" height="1000" src="https://github.com/PrathameshDeshpande/YoloV4_Food_Detection/blob/master/predictions (9).jpg"></p>
+<p><img align="Center" width="1000" height="1000" src="https://github.com/PrathameshDeshpande/YoloV4_Food_Detection/blob/master/predictions (10).jpg"></p>
 ```
 🔨FURTHER FINISHING WILL BE DONE BEFORE DEPLOYING THIS WEBAPP🔧
 ```
