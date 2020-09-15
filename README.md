@@ -12,6 +12,11 @@
 <p><img align="Center" width="1000" height="1000" src="https://github.com/PrathameshDeshpande/YoloV4_Food_Detection/blob/master/predictions (9).jpg"></p>
 <p><img align="Center" width="1000" height="1000" src="https://github.com/PrathameshDeshpande/YoloV4_Food_Detection/blob/master/predictions (10).jpg"></p>
 
+## RESOURCES
+* **https://github.com/pjreddie/darknet**
+* **https://github.com/AlexeyAB/darknet**
+* **SOFTWARE FOR ANNOTATION - LabelImg**
+* **IF YOU NEED WEIGHTS OR ANNOTATED DATASET EMAIL ME AT - prtdesh25@gmail.com **
 ```
 🔨FURTHER DEVELOPMENT OF THIS MODLE WILL BE DONE IN FUTURE🔧
 ```
