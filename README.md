@@ -16,7 +16,7 @@
 * **https://github.com/pjreddie/darknet**
 * **https://github.com/AlexeyAB/darknet**
 * **SOFTWARE FOR ANNOTATION - LabelImg**
-* **IF YOU NEED WEIGHTS OR ANNOTATED DATASET EMAIL ME AT - prtdesh25@gmail.com **
+* **IF YOU NEED WEIGHTS OR ANNOTATED DATASET EMAIL ME AT - prtdesh25@gmail.com**
 ```
 🔨FURTHER DEVELOPMENT OF THIS MODLE WILL BE DONE IN FUTURE🔧
 ```
