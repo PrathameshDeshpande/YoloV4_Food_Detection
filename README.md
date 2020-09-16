@@ -21,7 +21,7 @@
 🔨FURTHER DEVELOPMENT OF THIS MODLE WILL BE DONE IN FUTURE🔧
 ```
 ```
-🤩🤩SO,STAY TUNED🤩🤩
+🤩🤩SO, STAY TUNED🤩🤩
 ```
 
 ## <div align="center" >👽 THANK YOU AND HAPPY CODING👽</div>
